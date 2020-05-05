@@ -6,6 +6,17 @@ WebPwn3r - Web Applications Security Scanner.
 By Ebrahim Hegazy - @suman333mondal
 ### Installation
 
+```
+apt install git
+apt install python
+apt install python2 
+git clone https://github.com/AdminOnlineHacking/WebSecurity
+cd WebSecurity
+chmod +x *
+ls
+python2 scan.py
+```
+
 ### How to use:
 
 1- python scan.py
