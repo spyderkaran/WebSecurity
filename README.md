@@ -43,12 +43,12 @@ python2 scan.py
     
 
 <p align="center">
-  <img src="http://www.sec-down.com/wordpress/wp-content/uploads/2014/04/WebPwn3r.png">  
+  <img src="https://i.pinimg.com/originals/0a/3c/40/0a3c402e999d63a056d7f263063a8e57.png">  
 </p>
 
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/0a/3c/40/0a3c402e999d63a056d7f263063a8e57.png">  
+  <img src="">  
 </p>
 
 1- Scan a URL or List of URL’s
