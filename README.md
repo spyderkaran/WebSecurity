@@ -1,4 +1,4 @@
-webpwn3r
+WebSecurity
 ========
 
 **WebPwn3r - Web Applications Security Scanner.**
