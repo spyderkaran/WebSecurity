@@ -4,9 +4,9 @@ webpwn3r
 WebPwn3r - Web Applications Security Scanner.
 
 By Ebrahim Hegazy - @suman333mondal
+### Installation
 
-
-How to use:
+### How to use:
 
 1- python scan.py
 
