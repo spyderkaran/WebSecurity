@@ -7,9 +7,9 @@ webpwn3r
   <img src="https://i.pinimg.com/originals/06/14/57/06145768bc2556520df223f88d7a971a.jpg">  
 </p>
 
-<h1 align="center">WordlistPasswordGenerator - OnlineHacking</h1>
+<h1 align="center">WebSecurity - OnlineHacking</h1>
 <p align="center">
-  Python wordlist generator 
+  Python  Web Applications Security Scanner
 </p>
 
 ### MAINTAINERS
