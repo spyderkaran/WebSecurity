@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # WebPwn3r is a Web Applications Security Scanner
-# By Ebrahim Hegazy - twitter.com/zigoo0
+# By Suman Mondal - twitter.com/suman333mondal
 # First demo conducted 12Apr-2014 @OWASP Chapter Egypt
 # https://www.owasp.org/index.php/Cairo
 import re
@@ -21,7 +21,7 @@ print ga.green+'''
         #|  Telegram Channel - @OnlineHacking                        #
         #|  Telegram Group - @OnlineHacking0.                        #
 	#|  Thanks @suman333mondal, @OwnerOnlineHacking @Help99,     #
-	#|  More Details: http://www.sec-down.com/wordpress/?p=373   #
+	#|                        SUMAN MONDAL                       #
         ##############################################################
         '''+ga.end
 
