@@ -18,10 +18,9 @@ print ga.green+'''
                                                     
         ##############################################################
         #| "WebPwn3r" Web Applications Security Scanner              #
-        #|  Telegram Channel - @OnlineHacking                        #
-        #|  Telegram Group - @OnlineHacking0.                        #
-	#|  Thanks @suman333mondal, @OwnerOnlineHacking @Help99      #
-	#|                       SUMAN MONDAL                        #
+        #|  Telegram Channel - @Darkplayhackers                      #
+	#|  Thanks @DarkproHacker, @OwnerDarkplayhackers @Help99     #
+	#|                       Dark Hacker                         #
         ##############################################################
         '''+ga.end
 
